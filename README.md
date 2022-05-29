@@ -7,7 +7,7 @@
 <a href='https://vk.com/vasil1y'><img src='vk.png' height=70></a>
 <a href='https://t.me/vasil1y' style='margin-left: 50px'><img src='telegram.png' height=70></a>
 <hr>
-<div style="text-align: left;margin-left: 30%">
+<div align="left" style="text-align: left;margin-left: 30%">
 
 I am a graduate of the **Lyceum** and the **Lyceum++ Academy of Yandex**\
 Check certificates:
