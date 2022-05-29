@@ -18,24 +18,24 @@ Check certificates:
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasil1y-777&theme=dark&title_color=2AA889&text_color=FDFDFD&border_color=2AA889&bg_color=0C1014)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vasil1y-777&theme=dark&background=0C1014&border=2AA889&ring=2AA889&stroke=2AA889&fire=599CAB&currStreakLabel=599CAB&sideLabels=599CAB)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasil1y-777&theme=dark&title_color=2AA889&text_color=FDFDFD&border_color=2AA889&bg_color=0C1014)](#)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vasil1y-777&theme=dark&background=0C1014&border=2AA889&ring=2AA889&stroke=2AA889&fire=599CAB&currStreakLabel=599CAB&sideLabels=599CAB)](#)
 
 
 <div style="display: inline-block">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasil1y-777&theme=dark&title_color=2AA889&text_color=FDFDFD&border_color=2AA889&bg_color=0C1014)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasil1y-777&theme=dark&title_color=2AA889&text_color=FDFDFD&border_color=2AA889&bg_color=0C1014)](#)
 
 </div>
 
 <div style="display: inline-block; width: 815px">
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vasil1y-777&theme=gotham)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vasil1y-777&theme=gotham)](#)
 
 </div>
 
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](#)
 
 </div>
 
