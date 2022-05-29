@@ -1,6 +1,6 @@
 
 
-<div style="text-align: center">
+<div align="center" style="text-align: center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232AA889&lines=I+am+Fullstack+Developer&size=30)](https://vk.com/vasil1y)
 
@@ -28,7 +28,7 @@ Check certificates:
 
 </div>
 
-<div style="display: inline-block; width: 55%">
+<div style="display: inline-block; width: 815px">
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vasil1y-777&theme=gotham)
 
