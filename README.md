@@ -2,7 +2,7 @@
 
 <div align="center" style="text-align: center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232AA889&lines=I+am+Fullstack+Developer&size=30)](https://vk.com/vasil1y)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232AA889&lines=I+am+Fullstack+Developer&size=30)
 
 <a href='https://vk.com/vasil1y'><img src='vk.png' height=70></a>
 <a href='https://t.me/vasil1y' style='margin-left: 50px'><img src='telegram.png' height=70></a>
