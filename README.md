@@ -13,6 +13,7 @@ I am a graduate of the **Lyceum** and the **Lyceum++ Academy of Yandex**\
 Check certificates:
 - <a href='https://lyceum.yandex.ru/certificate/check/?certNumber=200135771&lastName=Никулин' style='color: #2AA889'>Lyceum (1st year)</a>
 - <a href='https://lyceum.yandex.ru/certificate/check/?certNumber=210235771&lastName=Никулин' style='color: #2AA889'>Lyceum (2nd year)</a>
+- <a href='https://lyceum.yandex.ru/certificate/check/?certNumber=2203166322&lastName=Никулин' style='color: #2AA889'>Lyceum++</a>
 
 </div>
 
